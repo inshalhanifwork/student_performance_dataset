@@ -44,5 +44,3 @@ plt.show()
 
 # question was :
 How does the number of study hours per week affect a student's final exam score?
-
-# code
